@@ -1,3 +1,7 @@
+Proyecto de visualización de un modelo jerárquico realizado durante las prácticas de la asignatura Informática Gráfica del Grado en Ingeniería Informática de la Universidad de Granada.
+
+A continuación se especifican las teclas necesarias para la visualización:
+
 1. Teclas utilizadas.
 Tecla 1: visualizar en modo puntos.
 Tecla 2: visualizar en modo aristas.
